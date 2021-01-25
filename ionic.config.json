@@ -1,0 +1,7 @@
+{
+  "name": "idemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
